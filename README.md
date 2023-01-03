@@ -1,3 +1,3 @@
 # Introduction
 
-Hello World, I am kripal Shrestha.
+Hello, I am kripal Shrestha.
